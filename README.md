@@ -1,6 +1,6 @@
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
-![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
+![Python 3.5](https://img.shields.io/badge/python-2.7-green.svg)
 
 # milliMap
 ### [Project](https://christopherlu.github.io/publications/millimap) | [Youtube](https://www.youtube.com/watch?v=VnxS-jsr4vk&feature=youtu.be) | [Paper](https://christopherlu.github.io/files/papers/[MobiSys2020]milliMap.pdf) <br>
