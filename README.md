@@ -1,6 +1,6 @@
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
-![Python 3.5](https://img.shields.io/badge/python-2.7-green.svg)
+![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 
 # milliMap
 ### [Project](https://christopherlu.github.io/publications/millimap) | [Youtube](https://www.youtube.com/watch?v=VnxS-jsr4vk&feature=youtu.be) | [Paper](https://christopherlu.github.io/files/papers/[MobiSys2020]milliMap.pdf) <br>
@@ -11,7 +11,7 @@ In [MobiSys 2020](https://www.sigmobile.org/mobisys/2020/).
 
 ## Prerequisites
 - Linux or macOS
-- Python 2 or 3
+- Python 2.7 or 3.6
 - NVIDIA GPU (12G or 24G memory) + CUDA cuDNN
 
 ## Getting Started
