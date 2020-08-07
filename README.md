@@ -28,7 +28,7 @@ cd milliMap
 ```
 
 ### Dataset
-- To train and test a model on the full dataset, please download it from the [here](https://www.dropbox.com/sh/n7515aw0pc52chx/AAAjJqAZq26h-H_lCuMq7MeMa?dl=0) (dropbox link).
+- To train and test a model on the full dataset, please download it from the [here](https://www.dropbox.com/s/ap54f319vpttaat/dataset.zip?dl=0) (dropbox link).
 After downloading and unzip, please put the dataset folder in this project directory.
 
 ### Testing
